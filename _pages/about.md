@@ -20,13 +20,13 @@ Email: jason [dot] klusowski [at] rutgers [dot] edu
 Biography
 ======
 
-I received my PhD in Statistics and Data Science from Yale University in 2018, where I was fortunate to have been mentored by Andrew Barron(http://www.stat.yale.edu/~arb4/). Since Fall 2018, I have been an Assistant Professor(https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/396-jason-m-klusowski) in the Department of Statistics(http://statistics.rutgers.edu/) at Rutgers University - New Brunswick.
+I received my PhD in Statistics and Data Science from Yale University in 2018, where I was fortunate to have been mentored by [Andrew Barron](http://www.stat.yale.edu/~arb4/). Since Fall 2018, I have been an [Assistant Professor](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/396-jason-m-klusowski) in the [Department of Statistics](http://statistics.rutgers.edu/) at Rutgers University - New Brunswick.
 
-My research is partially supported by NSF DMS-1915932(https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915932) (PI) and NSF HDR TRIPODS-1934924(https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934924) (Senior Personnel). Thank you, NSF!
+My research is partially supported by [NSF DMS-1915932](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915932) (PI) and [NSF HDR TRIPODS-1934924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934924) (Senior Personnel). Thank you, NSF!
 
-I am a senior personnel on TRIPODS Institute ‘DATA-INSPIRE’ at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
+I am a senior personnel on TRIPODS Institute ‘[DATA-INSPIRE](http://robotics.cs.rutgers.edu/data-inspire/)’ at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
 
-My wife is a behavioral marketing PhD student at Wharton.
+My [wife](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton.
 
 Research Interests
 ======
@@ -38,4 +38,4 @@ latent variable models (e.g., mixture models)
 Reading Group
 ======
 
-The Rutgers Statistical Machine Learning Reading Group runs each Wednesday 4:40-5:40pm in Hill 260. All are welcome to attend!
+The [Rutgers Statistical Machine Learning Reading Group](http://nineisprime.github.io/sml_reading/) runs each Tuesday 2:00-3:00pm in Hill 260. All are welcome to attend!
