@@ -14,9 +14,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ##### Neural networks
 
-* A. R. Barron and J. M. Klusowski, "Total path variation for deep nets with general activation functions", Working paper, 2019. [online]
 * A. R. Barron and J. M. Klusowski, "Approximation and estimation for high-dimensional deep learning networks", Working paper, 2018. [online] [updated]
-* J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with ℓ 1  and ℓ 0  controls", IEEE Transactions on Information Theory, 2018. [preprint] [journal]
+* J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with ℓ_1 and ℓ_0 controls", IEEE Transactions on Information Theory, 2018. [preprint] [journal]
 * J. M. Klusowski and A. R. Barron, "Risk bounds for high-dimensional ridge function combinations including neural networks", Working paper, 2018. [online]
 * J. M. Klusowski and A. R. Barron, "Minimax lower bounds for ridge combinations including neural nets", Proceedings IEEE International Symposium on Information Theory, Aachen, Germany, 2017. [preprint] [proceedings]
 
@@ -37,10 +36,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ##### Shaped constrained estimation
 
 * V. E. Brunel, J. M. Klusowski, and D. Yang, "Estimation of convex supports from noisy measurements", Submitted, 2018. [online]
-* V. E. Brunel, J. M. Klusowski, and D. Yang, "Estimation of a convex density support using contaminated data", Working paper, 2018. [online]
 
 ##### Miscellaneous
 
 * W. D. Brinda, J. M. Klusowski, and D. Yang, "Hölder's identity", Statistics and Probability Letters, 2019. [journal]
-* W. D. Brinda, J. M. Klusowski, and A. R. Barron, "Expected redundancy of mixtures from unconstrained families", Working paper, 2018. [online]
 * W. D. Brinda and J. M. Klusowski, "Finite-sample risk bounds for maximum likelihood estimation with arbitrary penalties", IEEE Transactions on Information Theory, 2018. [preprint] [journal]
