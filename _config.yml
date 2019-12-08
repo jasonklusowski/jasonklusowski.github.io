@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jason M. Klusowski"
 title_separator          : "-"
-name                     : &name "Jason M. Klusowski"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jasonklusowski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
