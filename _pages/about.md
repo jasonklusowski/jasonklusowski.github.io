@@ -31,9 +31,9 @@ My [wife](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral mar
 Research Interests
 ======
 
-tree-structured learning (e.g., random forests)
-neural networks (approximation and statistical theory)
-latent variable models (e.g., mixture models)
+* tree-structured learning (e.g., random forests)
+* neural networks (approximation and statistical theory)
+* latent variable models (e.g., mixture models)
 
 Reading Group
 ======
