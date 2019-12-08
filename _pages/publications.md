@@ -21,7 +21,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### High-dimensional linear regression
 
-* Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing", accepted _NeurIPS_, 2019. [[online](https://arxiv.org/pdf/1907.07502.pdf)] [[proceedings](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing)] [[poster (https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)]
+* Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing", accepted _NeurIPS_, 2019. [[online](https://arxiv.org/pdf/1907.07502.pdf)] [[proceedings](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing)] [[poster] (https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)]
 
 ### Mixture models
 
@@ -30,7 +30,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Network analysis
 
-* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf)] [[proceedings](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf)] [[poster (https://jasonklusowski.github.io/files/poster.pdf)]
+* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf)] [[proceedings](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf)] [[poster] (https://jasonklusowski.github.io/files/poster.pdf)]
 * J. M. Klusowski and Y. Wu, "Estimating the number of connected components in a graph via subgraph sampling", to appear _Bernoulli_, 2019. [[online](https://arxiv.org/pdf/1801.04339.pdf)]
 
 ### Shaped constrained estimation
