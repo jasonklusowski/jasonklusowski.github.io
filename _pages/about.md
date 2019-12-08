@@ -39,8 +39,8 @@ Research Interests
 
 I am broadly interested in statistical learning theory, though most of my recent work has focused on the study and design of prediction algorithms for regression and classification.
 
-* tree-structured learning (e.g., random forests)
-* neural networks (approximation and statistical theory)
+* tree-structured learning (e.g., random forests, CART)
+* neural networks (approximation and statistical properties)
 * latent variable models (e.g., mixture models)
 
 Reading Group
