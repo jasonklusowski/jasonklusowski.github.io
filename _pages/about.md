@@ -20,7 +20,7 @@ Contact
 CV
 ======
 
-My curriculum vitae is available here.
+My curriculum vitae is available [here](https://jasonklusowski.github.io/files/Klusowski_cv.pdf.
 
 Biography
 ======
