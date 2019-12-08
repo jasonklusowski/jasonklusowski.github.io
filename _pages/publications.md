@@ -15,7 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 #### Neural networks
 
 * A. R. Barron and J. M. Klusowski, "Approximation and estimation for high-dimensional deep learning networks", Working paper, 2018. [online] [updated]
-* J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with ℓ_1 and ℓ_0 controls", IEEE Transactions on Information Theory, 2018. [preprint] [journal]
+* J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with $\ell^1$ and $\ell^0$ controls", IEEE Transactions on Information Theory, 2018. [preprint] [journal]
 * J. M. Klusowski and A. R. Barron, "Risk bounds for high-dimensional ridge function combinations including neural networks", Working paper, 2018. [online]
 * J. M. Klusowski and A. R. Barron, "Minimax lower bounds for ridge combinations including neural nets", Proceedings IEEE International Symposium on Information Theory, Aachen, Germany, 2017. [preprint] [proceedings]
 
