@@ -11,13 +11,11 @@ redirect_from:
 Contact
 ======
 
-<address>
  501 Hill Center, Room 492<br />
  Busch Campus, Rutgers University - New Brunswick<br />
  110 Frelinghuysen Road<br />
  Piscataway, New Jersey, 08854-8019<br />
  Email: jason [dot] klusowski [at] rutgers [dot] edu<br />
-</address>
 
 
 Biography
