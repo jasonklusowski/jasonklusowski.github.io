@@ -9,8 +9,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Tree-structured learning
 
-* J. M. Klusowski, "Analyzing CART", Submitted, 2019. [online] [updated] [slides]
-* J. M. Klusowski, "Sharp analysis of a simple model for random forests", Submitted, 2018. [online] [updated] [slides]
+* J. M. Klusowski, "Analyzing CART", Submitted, 2019. [online] [updated]
+* J. M. Klusowski, "Sharp analysis of a simple model for random forests", Submitted, 2018. [online]
 
 ### Neural networks
 
