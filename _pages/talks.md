@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-#### 2019
+### 2019
 * Princeton University, Wilks Seminar Speaker, November 22
 * Rutgers University, Invited Speaker in ECE, October 2
 * Pennsylvania State University, Invited Speaker, September 27
@@ -18,10 +18,10 @@ author_profile: true
 * New England Statistics Symposium, Invited Session Speaker, May 17
 * Princeton University, Wilks Seminar Speaker, April 8
 
-#### 2018
+### 2018
 * University of Maryland - College Park, Seminar Speaker, October 16
-* Georgia Institute of Technology, Workshop on Theoretical Foundation of Deep Learning (FDL 2018), Workshop Speaker, October 8-10 [slides]
-* Simon Fraser University, 20th IMS New Researchers Conference, Talk and Poster Presentation, July 26-28 [slides]
+* Georgia Institute of Technology, Workshop on Theoretical Foundation of Deep Learning (FDL 2018), Workshop Speaker, October 8-10
+* Simon Fraser University, 20th IMS New Researchers Conference, Talk and Poster Presentation, July 26-28
 * MIT, Workshop on Sublinear Algorithms, Poster Presentation, June 11
 * Baruch College, Zickilin School of Business, Department of Information Systems and Statistics, Seminar Speaker, February 14
 * UNC Chapel Hill, Department of Statistics and Operations Research, Seminar Speaker, February 5
@@ -30,10 +30,10 @@ author_profile: true
 * Indiana University, Department of Statistics, Seminar Speaker, January 16
 * University of Notre Dame, Department of Applied and Computational Mathematics and Statistics, Seminar Speaker, January 12
 
-#### 2017
+### 2017
 * Queen's University, Department of Mathematics and Statistics, Seminar Speaker, November 29
 * University of Pennsylvania, Department of Statistics, Deep Learning Reading Group, November 3
 * International Symposium on Information Theory, Aachen, Germany, June 27
 
-#### 2016
+### 2016
 * Boston Machine Learning Group, StubHub, Invited Speaker, June 6
