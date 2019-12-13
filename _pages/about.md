@@ -33,6 +33,11 @@ I am broadly interested in statistical learning theory, though most of my recent
 * neural networks (approximation and statistical properties)
 * latent variable models (e.g., mixture models)
 
+Students
+======
+
+* [Penghui Fu](https://statistics.rutgers.edu/people-pages/faculty/people/135-graduate-students/487-penghui-fu) 
+ 
 Reading Group
 ======
 
