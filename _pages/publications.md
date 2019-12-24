@@ -30,7 +30,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Network analysis
 
-* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf)] [[proceedings]](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf) [[poster]](https://jasonklusowski.github.io/files/poster.pdf)
+* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf) [[proceedings]](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf) [[poster]](https://jasonklusowski.github.io/files/poster.pdf)
 * J. M. Klusowski and Y. Wu, "Estimating the number of connected components in a graph via subgraph sampling", to appear _Bernoulli_, 2019. [[preprint]](https://arxiv.org/pdf/1801.04339.pdf)
 
 ### Shaped constrained estimation
