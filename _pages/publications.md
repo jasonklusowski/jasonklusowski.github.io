@@ -30,8 +30,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Network analysis
 
-* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf)] [[proceedings](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf)] [[poster](https://jasonklusowski.github.io/files/poster.pdf)]
-* J. M. Klusowski and Y. Wu, "Estimating the number of connected components in a graph via subgraph sampling", to appear _Bernoulli_, 2019. [[preprint](https://arxiv.org/pdf/1801.04339.pdf)]
+* J. M. Klusowski and Y. Wu, "Counting motifs with graph sampling", _Conference on Learning Theory (COLT)_, 2018. [[preprint](https://arxiv.org/pdf/1802.07773.pdf)] [[proceedings]](http://proceedings.mlr.press/v75/klusowski18a/klusowski18a.pdf) [[poster]](https://jasonklusowski.github.io/files/poster.pdf)
+* J. M. Klusowski and Y. Wu, "Estimating the number of connected components in a graph via subgraph sampling", to appear _Bernoulli_, 2019. [[preprint]](https://arxiv.org/pdf/1801.04339.pdf)
 
 ### Shaped constrained estimation
 
@@ -40,4 +40,4 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ### Miscellaneous
 
 * W. D. Brinda, J. M. Klusowski, and D. Yang, "Hölder's identity", _Statistics and Probability Letters_, 2019. [[journal]](https://www.sciencedirect.com/science/article/pii/S0167715219300148)
-* W. D. Brinda and J. M. Klusowski, "Finite-sample risk bounds for maximum likelihood estimation with arbitrary penalties", _IEEE Transactions on Information Theory_, 2018. [[preprint](https://arxiv.org/pdf/1712.10087.pdf)] [[journal]](http://ieeexplore.ieee.org/document/8245843/)
+* W. D. Brinda and J. M. Klusowski, "Finite-sample risk bounds for maximum likelihood estimation with arbitrary penalties", _IEEE Transactions on Information Theory_, 2018. [[preprint]](https://arxiv.org/pdf/1712.10087.pdf) [[journal]](http://ieeexplore.ieee.org/document/8245843/)
