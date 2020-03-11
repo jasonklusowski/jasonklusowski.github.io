@@ -27,7 +27,7 @@ My curriculum vitae is available [here](https://jasonklusowski.github.io/files/K
 Research Interests
 ======
 
-I am broadly interested in statistical learning theory---the study and design of prediction algorithms for regression and classification.
+I am broadly interested in statistical learning theory, though most of my recent work has focused on the study and design of prediction algorithms for regression and classification.
 
 * tree-structured learning (e.g., random forests, CART)
 * neural networks (approximation and statistical properties)
