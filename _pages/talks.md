@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2020
+* Joint Statistical Meetings, Invited Session Speaker, August
+* International Indian Statistical Association, Invited Session Speaker, July
+
 ### 2019
 * Princeton University, Wilks Seminar Speaker, November 22
 * Rutgers University, Invited Speaker in ECE, October 2
