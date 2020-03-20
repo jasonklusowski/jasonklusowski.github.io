@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason M. Klusowski 제이슨 클루 소프 스키"
+title                    : "Jason M. Klusowski"
 title_separator          : "-"
 name                     : &name "Jason M. Klusowski"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason M. Klusowski"
+  name             : "Jason M. Klusowski (제이슨 클루 소프 스키)"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor @ Rutgers"
   location         : "New Brunswick, NJ"
