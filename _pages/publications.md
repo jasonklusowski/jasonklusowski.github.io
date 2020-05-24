@@ -23,9 +23,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### High-dimensional linear regression
 
-* Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing", _NeurIPS_, 2019. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[proceedings]](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing) [[poster]](https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)
-
-* Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing", Revise and resubmit to _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf)
+* Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing" 
+** _NeurIPS_, 2019. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[proceedings]](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing) [[poster]](https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)
+** Revise and resubmit to _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf)
 
 ### Mixture models
 
