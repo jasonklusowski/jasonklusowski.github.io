@@ -9,13 +9,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Tree-structured learning
 
+* J. M. Klusowski, "Sparse learning with CART", Submitted, 2020 [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
 * J. M. Klusowski, "Analyzing CART", Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) 
 [[updated]](https://jasonklusowski.github.io/files/cart.pdf)
 * J. M. Klusowski, "Sharp analysis of a simple model for random forests", Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
 
-* J. M. Klusowski, "Total Path Variation for Deep Nets with General Activation Functions", Submitted, 2019. [[preprint]](https://jasonklusowski.github.io/files/DeepNetApproximationGeneral.pdf)
+* J. M. Klusowski, "Total path variation for deep nets with general activation functions", Submitted, 2019. [[preprint]](https://jasonklusowski.github.io/files/DeepNetApproximationGeneral.pdf)
 * A. R. Barron and J. M. Klusowski, "Approximation and estimation for high-dimensional deep learning networks", Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1809.03090.pdf)
 * J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with $\ell^1$ and $\ell^0$ controls", _IEEE Transactions on Information Theory_, 2018. [[preprint]](https://arxiv.org/pdf/1607.07819.pdf) [[journal]](https://ieeexplore.ieee.org/document/8485650)
 * J. M. Klusowski and A. R. Barron, "Risk bounds for high-dimensional ridge function combinations including neural networks", Working paper, 2018. [[preprint]](https://arxiv.org/pdf/1607.01434.pdf)
