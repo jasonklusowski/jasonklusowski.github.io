@@ -35,7 +35,7 @@ I am broadly interested in statistical learning theory, though most of my recent
 
 Students
 ======
-I have had the privaledge of working with the following extremely talented students.
+I have had the privilege of working with the following extremely talented students.
 
 * [Penghui Fu](https://statistics.rutgers.edu/people-pages/faculty/people/135-graduate-students/487-penghui-fu) 
 * [Ryan Theisen](http://ryantheisen.com/) 
