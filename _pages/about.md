@@ -15,7 +15,7 @@ I will be joining the [Department of Operations Research \& Financial Engineerin
 
 My research is partially supported by [NSF DMS-1915932](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915932) (PI) and [TRIPODS DATA-INSPIRE Institute CCF-1934924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934924) (Senior Personnel). Thank you, NSF!
 
-I am a senior personnel on ‘[TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/)’ at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
+I am a senior personnel on [TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/) at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
 
 My [wife](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton.
  
