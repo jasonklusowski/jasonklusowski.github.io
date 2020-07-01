@@ -37,7 +37,7 @@ Students
 ======
 I have the privilege of working with the following extremely talented students.
 
-* [Peter Tian]
+* Peter Tian
 * [Ryan Theisen](http://ryantheisen.com/) 
  
 Reading Group
