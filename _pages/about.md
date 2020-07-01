@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 
-I will be joining the [Department of Operations Research \& Financial Engineering](https://orfe.princeton.edu/) at Princeton University in fall 2020. Previously, I was an [Assistant Professor](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/396-jason-m-klusowski) in the [Department of Statistics](http://statistics.rutgers.edu/) at Rutgers University, New Brunswick. I received my PhD in Statistics and Data Science from Yale University in 2018, where I was fortunate to have been mentored by [Andrew Barron](http://www.stat.yale.edu/~arb4/). From 2017 to 2018, I was a visiting graduate student in the statistics department at Wharton.
+I will be joining the [Department of Operations Research & Financial Engineering](https://orfe.princeton.edu/) at Princeton University in fall 2020. Previously, I was an [Assistant Professor](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/396-jason-m-klusowski) in the [Department of Statistics](http://statistics.rutgers.edu/) at Rutgers University, New Brunswick. I received my PhD in Statistics and Data Science from Yale University in 2018, where I was fortunate to have been mentored by [Andrew Barron](http://www.stat.yale.edu/~arb4/). From 2017 to 2018, I was a visiting graduate student in the statistics department at Wharton.
 
 My research is partially supported by [NSF DMS-1915932](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915932) (PI) and [TRIPODS DATA-INSPIRE Institute CCF-1934924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934924) (Senior Personnel). Thank you, NSF!
 
