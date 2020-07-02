@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2020
-* Joint Statistical Meetings, invited session speaker, August
+* Joint Statistical Meetings, invited session speaker, August 5
 * International Indian Statistical Association, invited session speaker, July (cancelled due to COVID)
 * UC, Berkeley, Michael Mahoney's research group, invited virtual speaker, May 28
 
