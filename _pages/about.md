@@ -43,9 +43,4 @@ I have the privilege of working with the following extremely talented students.
 Contact
 ======
 
- 501 Hill Center, Room 492<br />
- Busch Campus, Rutgers University — New Brunswick<br />
- 110 Frelinghuysen Road<br />
- Piscataway, New Jersey, 08854-8019<br />
- **Email**: jason [dot] klusowski [at] rutgers [dot] edu<br />
- **Phone**: (848) 445-7628
+ **Email**: jason [dot] klusowski [at] princeton [dot] edu<br />
