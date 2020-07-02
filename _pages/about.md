@@ -37,8 +37,8 @@ Students
 ======
 I have the privilege of working with the following extremely talented students.
 
-* Peter Tian
-* [Ryan Theisen](http://ryantheisen.com/) 
+* Peter Tian (Princeton University)
+* [Ryan Theisen](http://ryantheisen.com/) (UC, Berkeley)
  
 Reading Group
 ======
