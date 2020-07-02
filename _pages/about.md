@@ -39,10 +39,6 @@ I have the privilege of working with the following extremely talented students.
 
 * Peter Tian (Princeton University)
 * [Ryan Theisen](http://ryantheisen.com/) (UC, Berkeley)
- 
-Reading Group
-======
-The [Rutgers Statistical Machine Learning Reading Group](http://nineisprime.github.io/sml_reading/) runs each Tuesday from 2pm to 3pm in Hill 260. All are welcome to attend!
 
 Contact
 ======
