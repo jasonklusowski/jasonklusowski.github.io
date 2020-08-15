@@ -10,8 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ### Decision tree learning
 
 * J. M. Klusowski, "Sparse learning with CART", Submitted, 2020. [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
-* J. M. Klusowski, "Analyzing CART", Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) 
-[[updated]](https://jasonklusowski.github.io/files/cart.pdf)
+* J. M. Klusowski, "Analyzing CART", Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf)
 * J. M. Klusowski, "Sharp analysis of a simple model for random forests", Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
