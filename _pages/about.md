@@ -31,13 +31,11 @@ I am broadly interested in statistical learning theory, though most of my recent
 
 * decision tree learning (e.g., random forests, CART)
 * neural networks (approximation and statistical properties)
-* latent variable models (e.g., mixture models)
 
 Students
 ======
-I have the privilege of working with the following extremely talented students.
 
-* Peter Tian (Princeton)
+* [Peter Tian](https://orfe.princeton.edu/sites/orfe.princeton.edu/files/Peter%20Tian%20Resume.pdf) (Princeton)
 * [Ryan Theisen](http://ryantheisen.com/) (UC, Berkeley)
 
 Contact
