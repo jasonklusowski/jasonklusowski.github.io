@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### 2020
+* Purdue Univeristy, Department of Mathematics, invited speaker, October 5
+* One World Seminar Series on the Mathematics of Machine Learning, invited speaker, September 30
 * Joint Statistical Meetings, invited session speaker, August 5
 * International Indian Statistical Association, invited session speaker, July (cancelled due to COVID)
 * UC, Berkeley, Michael Mahoney's research group, invited virtual speaker, May 28
@@ -24,7 +26,7 @@ author_profile: true
 * Princeton University, Wilks Seminar speaker, April 8
 
 ### 2018
-* University of Maryland - College Park, invited seminar speaker, October 16
+* University of Maryland, College Park, invited seminar speaker, October 16
 * Georgia Institute of Technology, Workshop on Theoretical Foundation of Deep Learning (FDL 2018), invited workshop speaker, October 8-10
 * Simon Fraser University, 20th IMS New Researchers Conference, talk and poster presentation, July 26-28
 * MIT, Workshop on Sublinear Algorithms, poster presentation, June 11
