@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### 2020
+* Merck & Co., Inc., invited speaker, October 14
 * Purdue Univeristy, Department of Mathematics, invited speaker, October 5
 * One World Seminar Series on the Mathematics of Machine Learning, invited speaker, September 30
 * Joint Statistical Meetings, invited session speaker, August 5
