@@ -17,7 +17,7 @@ My research is partially supported by [NSF DMS-1915932](https://www.nsf.gov/awar
 
 I am a senior personnel on [TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/) at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
 
-My [wife](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton. I am (slowly) learning Korean from her.
+My [spouse](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton. I am (slowly) learning Korean from her.
  
 CV
 ======
