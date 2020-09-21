@@ -15,7 +15,8 @@ I am an assistant professor in the [Department of Operations Research & Financia
 
 My research is partially supported by [NSF DMS-1915932](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915932) (PI) and [TRIPODS DATA-INSPIRE Institute CCF-1934924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934924) (Senior Personnel). Thank you, NSF!
 
-I am a senior personnel on [TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/) at Rutgers, which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction.
+I am a participating faculty at the [Center for Statistics and Machine Learning (CSML)](https://csml.princeton.edu/) at Princeton and a senior personnel on [TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/) at Rutgers.
+<!-- which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction. -->
 
 My [spouse](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton. I am (slowly) learning Korean from her.
  
