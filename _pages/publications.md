@@ -9,7 +9,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Decision tree learning
 
-* J. M. Klusowski, "Sparse learning with CART", To appear _NeurIPS_, 2020. [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
+* J. M. Klusowski, "Sparse learning with CART" [[preprint]](https://arxiv.org/pdf/2006.04266.pdf) 
+- To appear _NeurIPS_, 2020.
+- Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
 * J. M. Klusowski, "Analyzing CART", Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf)
 * J. M. Klusowski, "Sharp analysis of a simple model for random forests", Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
@@ -26,7 +28,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * R. Theisen, J. M. Klusowski, M. W. Mahoney, "Good linear classifiers are abundant in the interpolating regime", Submitted, 2020. [[preprint]](https://arxiv.org/pdf/2006.12625.pdf)
 * Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing",
   - _NeurIPS_, 2019. [[proceedings]](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing) [[poster]](https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)
-  - To appear _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[journal]](https://ieeexplore.ieee.org/document/9204751)
+  - Longer version to appear _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[journal]](https://ieeexplore.ieee.org/document/9204751)
 
 ### Mixture models
 
