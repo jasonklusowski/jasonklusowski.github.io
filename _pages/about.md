@@ -43,5 +43,4 @@ Contact
 ======
 
  **Email**: jason [dot] klusowski [at] princeton [dot] edu<br />
- 
-  **Office**: 327 Sherrerd Hall, Charlton Street, Princeton, NJ 08544
+ **Office**: 327 Sherrerd Hall, Charlton Street, Princeton, NJ 08544
