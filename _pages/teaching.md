@@ -7,7 +7,7 @@ author_profile: true
 
 ### Spring 2021 (Princeton)
 
-* [ORF 504 — Financial Econometrics](https://gradschool.princeton.edu/academics/fields-study/operations-research-and-financial-engineering)
+* [ORF 504 / FIN 504 — Financial Econometrics](https://gradschool.princeton.edu/academics/fields-study/operations-research-and-financial-engineering)
 
 ### Spring 2020 (Rutgers)
 
