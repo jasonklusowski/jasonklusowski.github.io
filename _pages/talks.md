@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### 2020
-* NeurIPS, virtual conference, December 6-12
+* CMStatistics, virtual conference, invited session speaker, December 19
+* NeurIPS, virtual conference, December 10
 * Merck & Co., Inc., biostatistics group, invited speaker, October 14
 * Purdue University, Department of Mathematics, invited speaker, October 5
 * One World Seminar Series on the Mathematics of Machine Learning, invited speaker, September 30
