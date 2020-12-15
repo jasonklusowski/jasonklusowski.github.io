@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Decision tree learning
 
-* J. M. Klusowski and P. M. Tian, "Nonparametric variable screening with optimal decision stumps," Submitted, 2020. [[preprint]](https://arxiv.org/pdf/2011.02683.pdf) [[updated]](https://jasonklusowski.github.io/files/selection_arxiv.pdf)
+* J. M. Klusowski and P. M. Tian, "Nonparametric variable screening with optimal decision stumps," Submitted, 2020. [[preprint]](https://arxiv.org/pdf/2011.02683.pdf)
 * J. M. Klusowski, "Sparse learning with CART," [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
   - To appear _NeurIPS_, 2020. [[proceedings]](https://jasonklusowski.github.io/files/cart.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
   - Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
