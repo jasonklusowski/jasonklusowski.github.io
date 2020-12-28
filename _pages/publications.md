@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   - To appear _NeurIPS_, 2020. [[proceedings]](https://jasonklusowski.github.io/files/cart.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
   - Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
 * J. M. Klusowski, "Analyzing CART," Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf)
-* J. M. Klusowski, "Sharp analysis of a simple model for random forests," Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
+* J. M. Klusowski, "Sharp analysis of a simple model for random forests," Submitted, 2020. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
 
