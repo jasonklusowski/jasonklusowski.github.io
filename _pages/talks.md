@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2021
+
+* University of Florida, Deparment of Statistics, invited virtual speaker, March 11
+
 ### 2020
 * CMStatistics, virtual conference, invited session speaker, December 19
 * NeurIPS, virtual conference, December 10
