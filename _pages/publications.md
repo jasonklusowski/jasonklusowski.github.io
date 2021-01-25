@@ -13,12 +13,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * J. M. Klusowski, "Sparse learning with CART," [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
   - _NeurIPS_, 2020. [[proceedings]](https://papers.nips.cc/paper/2020/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
   - Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
-* J. M. Klusowski, "Analyzing CART," Submitted, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf)
+* J. M. Klusowski, "Analyzing CART," Technical report, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) Some content in this paper appeared in "Sparse learning with CART."
 * J. M. Klusowski, "Sharp analysis of a simple model for random forests," To appear _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
 
-* J. M. Klusowski, "Total path variation for deep nets with general activation functions," Submitted, 2019. [[preprint]](https://jasonklusowski.github.io/files/DeepNetApproximationGeneral.pdf)
+* J. M. Klusowski, "Total path variation for deep nets with general activation functions," Technical report, 2019. [[preprint]](https://jasonklusowski.github.io/files/DeepNetApproximationGeneral.pdf)
 * A. R. Barron and J. M. Klusowski, "Approximation and estimation for high-dimensional deep learning networks," Submitted, 2018. [[preprint]](https://arxiv.org/pdf/1809.03090.pdf)
 * J. M. Klusowski and A. R. Barron, "Approximation by combinations of ReLU and squared ReLU ridge functions with $\ell^1$ and $\ell^0$ controls," _IEEE Transactions on Information Theory_, 2018. [[preprint]](https://arxiv.org/pdf/1607.07819.pdf) [[journal]](https://ieeexplore.ieee.org/document/8485650)
 * J. M. Klusowski and A. R. Barron, "Risk bounds for high-dimensional ridge function combinations including neural networks," Working paper, 2018. [[preprint]](https://arxiv.org/pdf/1607.01434.pdf)
@@ -34,7 +34,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ### Mixture models
 
 * J. M. Klusowski, D. Yang, and W. D. Brinda, "Estimating the coefficients of a mixture of two linear regressions by expectation maximization," _IEEE Transactions on Information Theory_, 2019. [[preprint]](https://arxiv.org/pdf/1704.08231.pdf) [[journal]](https://ieeexplore.ieee.org/document/8606170)
-* J. M. Klusowski and W. D. Brinda, "Statistical guarantees for estimating the centers of a two-component Gaussian mixture by EM," Working paper, 2016. [[preprint]](http://arxiv.org/pdf/1608.02280.pdf)
+* J. M. Klusowski and W. D. Brinda, "Statistical guarantees for estimating the centers of a two-component Gaussian mixture by EM," Technical report, 2016. [[preprint]](http://arxiv.org/pdf/1608.02280.pdf)
 
 ### Network analysis
 
