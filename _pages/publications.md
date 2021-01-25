@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * J. M. Klusowski, "Sparse learning with CART," [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
   - _NeurIPS_, 2020. [[proceedings]](https://papers.nips.cc/paper/2020/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
   - Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
-* J. M. Klusowski, "Analyzing CART," Technical report, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) Some content in this paper appeared in "Sparse learning with CART."
+* J. M. Klusowski, "Analyzing CART," Technical report, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) (Some content in this paper appeared in "Sparse learning with CART.")
 * J. M. Klusowski, "Sharp analysis of a simple model for random forests," To appear _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
