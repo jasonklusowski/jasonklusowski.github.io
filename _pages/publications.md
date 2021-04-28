@@ -10,12 +10,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ### Decision tree learning
 
 * J. M. Klusowski, "Universal consistency of decision trees for high dimensional additive models," 2021. [[preprint]](https://jasonklusowski.github.io/files/cart_adapt.pdf)
-* J. M. Klusowski and P. M. Tian, "Nonparametric variable screening with optimal decision stumps," To appear _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/2011.02683.pdf)
+* J. M. Klusowski and P. M. Tian, "Nonparametric variable screening with optimal decision stumps," _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/2011.02683.pdf)
 * J. M. Klusowski, "Sparse learning with CART," [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
   - _NeurIPS_, 2020. [[proceedings]](https://papers.nips.cc/paper/2020/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
   - Longer version revise and resubmit to _IEEE Transactions on Information Theory_, 2020.
 * J. M. Klusowski, "Analyzing CART," Technical report, 2019. [[preprint]](https://arxiv.org/pdf/1906.10086.pdf) (Some content in this paper appeared in "Sparse learning with CART.")
-* J. M. Klusowski, "Sharp analysis of a simple model for random forests," To appear _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
+* J. M. Klusowski, "Sharp analysis of a simple model for random forests," _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/1805.02587.pdf)
 
 ### Neural networks
 
@@ -27,7 +27,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### High-dimensional linear models
 
-* R. Theisen, J. M. Klusowski, M. W. Mahoney, "Good classifiers are abundant in the interpolating regime," To appear _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/2006.12625.pdf)
+* R. Theisen, J. M. Klusowski, M. W. Mahoney, "Good classifiers are abundant in the interpolating regime," _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/2006.12625.pdf)
 * Z. Bu, J. M. Klusowski, C. Rush, W. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing,"
   - _NeurIPS_, 2019. [[proceedings]](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing) [[poster]](https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)
   - Longer version to appear _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[journal]](https://ieeexplore.ieee.org/document/9204751)
@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Shaped constrained estimation
 
-* V. E. Brunel, J. M. Klusowski, and D. Yang, "Estimation of convex supports from noisy measurements," to appear _Bernoulli_, 2020. [[preprint]](https://arxiv.org/pdf/1804.09879.pdf)
+* V. E. Brunel, J. M. Klusowski, and D. Yang, "Estimation of convex supports from noisy measurements," _Bernoulli_, 2021. [[preprint]](https://arxiv.org/pdf/1804.09879.pdf)
 
 ### Miscellaneous
 
