@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ### Decision tree learning
 
-* J. M. Klusowski, "Universal consistency of decision trees for high dimensional additive models," 2021. [[updated]](https://jasonklusowski.github.io/files/cart_adapt.pdf) [[preprint]](https://arxiv.org/pdf/2104.13881.pdf)
+* J. M. Klusowski, "Universal consistency of decision trees for high dimensional additive models," Submitted, 2021. [[updated]](https://jasonklusowski.github.io/files/cart_adapt.pdf) [[preprint]](https://arxiv.org/pdf/2104.13881.pdf)
 * J. M. Klusowski and P. M. Tian, "Nonparametric variable screening with optimal decision stumps," _AISTATS_, 2021. [[preprint]](https://arxiv.org/pdf/2011.02683.pdf)
 * J. M. Klusowski, "Sparse learning with CART," [[preprint]](https://arxiv.org/pdf/2006.04266.pdf)
   - _NeurIPS_, 2020. [[proceedings]](https://papers.nips.cc/paper/2020/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) [[poster]](https://jasonklusowski.github.io/files/cart_poster.pdf)
