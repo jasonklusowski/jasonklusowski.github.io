@@ -31,7 +31,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * Z. Bu, J. M. Klusowski, C. Rush, W. J. Su, "Algorithmic analysis and statistical estimation of SLOPE via approximate message passing,"
   - _NeurIPS_, 2019. [[proceedings]](http://papers.neurips.cc/paper/9134-algorithmic-analysis-and-statistical-estimation-of-slope-via-approximate-message-passing) [[poster]](https://jasonklusowski.github.io/files/SLOPEAMP_poster.pdf)
   - Longer version in _IEEE Transactions on Information Theory_, 2020. [[preprint]](https://arxiv.org/pdf/1907.07502.pdf) [[journal]](https://ieeexplore.ieee.org/document/9204751)
-* Z. Bu, J. M. Klusowski, C. Rush, W. J. Su, "Characterizing the SLOPE Trade-off: A Variational Perspective and the Donoho–Tanner Limit," Submitted, 2021.
+* Z. Bu, J. M. Klusowski, C. Rush, W. J. Su, "Characterizing the SLOPE Trade-off: A Variational Perspective and the Donoho–Tanner Limit," Submitted, 2021. [[preprint]](https://arxiv.org/pdf/2105.13302.pdf)
 
 ### Mixture models
 
