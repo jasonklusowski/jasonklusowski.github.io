@@ -37,7 +37,6 @@ Students
 ======
 
 * [Peter Tian](https://orfe.princeton.edu/sites/orfe.princeton.edu/files/Peter%20Tian%20Resume.pdf) (Princeton)
-* [Ryan Theisen](http://ryantheisen.com/) (UC, Berkeley)
 
 Contact
 ======
