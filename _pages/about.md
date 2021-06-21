@@ -18,7 +18,7 @@ My research is partially supported by [NSF DMS-2054808](https://www.nsf.gov/awar
 I am a participating faculty at the [Center for Statistics and Machine Learning (CSML)](https://csml.princeton.edu/) at Princeton and senior personnel on [TRIPODS DATA-INSPIRE Institute](http://robotics.cs.rutgers.edu/data-inspire/) at Rutgers.
 <!-- which is a new, trans-disciplinary institute on data science for intelligent systems and people interaction. -->
 
-My [spouse](https://marketing.wharton.upenn.edu/profile/jwkk/) is a behavioral marketing PhD student at Wharton. I am (slowly) learning Korean from her.
+My [spouse](https://www.joowonklusowski.com/) is a behavioral marketing researcher at Yale University.
  
 CV
 ======
