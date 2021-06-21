@@ -42,5 +42,6 @@ Students
 Contact
 ======
 
+ **Phone**: (609) 258-5305
  **Email**: jason [dot] klusowski [at] princeton [dot] edu<br />
  **Office**: 327 Sherrerd Hall, Charlton Street, Princeton, NJ 08544
