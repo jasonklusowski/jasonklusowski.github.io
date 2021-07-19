@@ -9,7 +9,7 @@ author_profile: true
 
 * Statiatics 2021 Canada, 6th Canadian Conference in Applied Statistics, invited virtual speaker, July 17
 * International Indian Statistical Association (IISA) 2021 Conference, invited session speaker, May 22
-* * AISTATS, virtual conference, April 13
+* AISTATS, virtual conference, April 13
 * University of Florida, Deparment of Statistics, invited virtual speaker, March 11
 
 ### 2020
