@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2021
 
+* Statiatics 2021 Canada, 6th Canadian Conference in Applied Statistics, invited virtual speaker, July 17
+* International Indian Statistical Association 2021 Conference, invited session speaker, May 22
 * University of Florida, Deparment of Statistics, invited virtual speaker, March 11
 
 ### 2020
@@ -16,7 +18,6 @@ author_profile: true
 * Purdue University, Department of Mathematics, invited speaker, October 5
 * One World Seminar Series on the Mathematics of Machine Learning, invited speaker, September 30
 * Joint Statistical Meetings, invited session speaker, August 5
-* International Indian Statistical Association, invited session speaker, July (cancelled due to COVID)
 * UC, Berkeley, Michael Mahoney's research group, invited virtual speaker, May 28
 
 ### 2019
